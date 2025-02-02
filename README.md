@@ -3,4 +3,4 @@
 #### **Leidy Carolina Obando Figueroa**
 #### **Samuel Aristizabal Alzate**
 #### **Jaider España Patermina**
-#### **Sofia**
+#### **Sofia Zapata Zuluaga**
