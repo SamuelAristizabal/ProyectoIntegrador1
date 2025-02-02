@@ -2,5 +2,5 @@
 ## Integrantes 
 #### **Leidy Carolina Obando Figueroa**
 #### **Samuel Aristizabal Alzate**
-#### **Jaider España P**
+#### **Jaider España Patermina**
 #### **Sofia**
