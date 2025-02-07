@@ -6,4 +6,4 @@ def home(request):
     return render(request, 'home.html', {'name':'Leidy carolina obando'})
 
 def about(request):
-    return render(request, 'home.html', {'name':':)'})
+    return render(request, 'about.html', {'name':':)'})
